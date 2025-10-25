@@ -1,4 +1,4 @@
-<metadata>>
+<metadata>
   <identifier>max_20251025</identifier><br>
   <mediatype>image</mediatype><br>
   <collection>opensource_image</collection><br>
@@ -13,4 +13,4 @@
   <publicdate>2025-10-25 18:25:07</publicdate><br>
   <addeddate>2025-10-25 18:25:07</addeddate><br>
   <curation>[curator]validator@archive.org[/curator][date]20251025182529[/date][comment]checked for malware[/comment]</curation><br>
-</metadata>>
+</metadata>
