@@ -1,4 +1,4 @@
-<metadata><br>
+## <metadata>
   <identifier>max_20251025</identifier><br>
   <mediatype>image</mediatype><br>
   <collection>opensource_image</collection><br>
