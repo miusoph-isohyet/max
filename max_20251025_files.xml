@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="max.html" source="original">
+    <mtime>1761416686</mtime>
+    <size>5157349</size>
+    <md5>18bf6763c0c0a41afa81f52f7a4c2763</md5>
+    <crc32>454414dd</crc32>
+    <sha1>94ef37c668dad6c83645938be15b82a4eea01def</sha1>
+    <format>HTML</format>
+  </file>
+  <file name="max_20251025_archive.torrent" source="metadata">
+    <btih>ca525fbe814284cd039ca1d575fcec53d0278b93</btih>
+    <mtime>1761416730</mtime>
+    <size>1823</size>
+    <md5>aa3c2509d1d374d4d6d78443c8f68362</md5>
+    <crc32>838cf77b</crc32>
+    <sha1>826fa43beacfe725d4f2c0b07ff268398f6245db</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="max_20251025_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>f9b9401fe7d12f4abbefcf3f8758cccd</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="max_20251025_meta.sqlite" source="original">
+    <mtime>1761416717</mtime>
+    <size>20480</size>
+    <md5>c87468b1e2f9ae3f85b19940754e5546</md5>
+    <crc32>65daae3d</crc32>
+    <sha1>b29e36c9f937de4e9e55b7873360c87bd4827261</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="max_20251025_meta.xml" source="original">
+    <mtime>1761416729</mtime>
+    <size>715</size>
+    <md5>956448e0c3e666f3cbe0732570310a75</md5>
+    <crc32>c26809aa</crc32>
+    <sha1>121dfebc7fe1646a72ad055813e5d93be144f6f0</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
